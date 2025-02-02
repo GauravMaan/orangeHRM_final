@@ -1,0 +1,15 @@
+Selenium Grid is a tool used to run Selenium test scripts on multiple machines and browsers simultaneously. It enables parallel execution of tests, reducing test execution time and improving efficiency. Selenium Grid follows a hub-node architecture, where:
+	•	Hub: The central point that manages test execution. It distributes test cases to different nodes based on configurations.
+	•	Nodes: Machines that execute the tests. Each node can have different browsers and operating systems.
+
+Key Features of Selenium Grid
+	1.	Parallel Execution: Run tests on multiple browsers and environments simultaneously.
+	2.	Cross-Browser Testing: Test applications on different browsers like Chrome, Firefox, and Edge.
+	3.	Multi-Environment Testing: Run tests on different operating systems (Windows, macOS, Linux).
+	4.	Remote Execution: Execute tests on machines located anywhere in the network.
+	5.	Load Balancing: Efficiently distribute test execution across multiple nodes.
+
+Architecture of Selenium Grid
+	1.	Hub: Acts as a central server to receive test requests and assign them to available nodes.
+	2.	Nodes: Machines where the actual execution of test cases happens.
+

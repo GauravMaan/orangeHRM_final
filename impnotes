@@ -1,0 +1,11 @@
+pytest --alluredir=reports/allure_reports
+pytest -v -s /Users/GauravMaan/orangeHRM/tests/test_search.py --html=/Users/GauravMaan/orangeHRM/reports/test_report.html
+python3 -m venv venv (for create environment)
+source venv/bin/activate (for activate it)
+chmod +x run.sh (for permission)
+./run.sh
+java -jar selenium-server-4.28.0.jar hub (for creating hub)
+java -jar selenium-server-4.28.0.jar node --detect-drivers true (for creating Node)
+
+
+brew services start jenkins-lts (for jenkins start)
