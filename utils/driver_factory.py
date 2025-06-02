@@ -8,7 +8,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 def init_driver(browser="chrome"):
     if browser == "chrome":
         options = webdriver.ChromeOptions()
-        options.add_argument("--headless")  # Run in headless mode for CI/CD
+        # options.add_argument("--headless")  # Run in headless mode for CI/CD
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     elif browser == "firefox":
         options = webdriver.FirefoxOptions()

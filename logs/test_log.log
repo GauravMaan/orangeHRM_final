@@ -95,3 +95,81 @@
 2025-01-21 13:12:17,063 - INFO - Testing if login button is disabled without input...
 2025-01-21 13:12:22,382 - INFO - Testing valid username with invalid password...
 2025-01-21 13:12:39,243 - INFO - Testing login redirect to dashboard...
+2025-02-22 14:01:28,453 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:01:34,742 - INFO - Performing login
+2025-02-22 14:03:05,105 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:03:11,198 - INFO - Performing login
+2025-02-22 14:04:01,393 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:04:07,479 - INFO - Performing login
+2025-02-22 14:09:01,318 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:09:07,520 - INFO - Performing login with valid credentials
+2025-02-22 14:15:21,057 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:15:27,280 - INFO - Performing login with valid credentials
+2025-02-22 14:15:32,434 - INFO - Login successful
+2025-02-22 14:15:32,434 - INFO - Navigating to PIM section
+2025-02-22 14:15:34,474 - INFO - Clicking Add Employee
+2025-02-22 14:15:36,543 - INFO - Adding employee details
+2025-02-22 14:15:42,712 - INFO - Searching for the added employee
+2025-02-22 14:27:08,578 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:27:14,817 - INFO - Performing login with valid credentials
+2025-02-22 14:27:19,965 - INFO - Login successful
+2025-02-22 14:27:19,965 - INFO - Navigating to PIM section
+2025-02-22 14:27:22,007 - INFO - Clicking Add Employee
+2025-02-22 14:27:24,060 - INFO - Adding employee details
+2025-02-22 14:27:30,254 - INFO - Searching for the added employee
+2025-02-22 14:29:11,664 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:29:17,713 - INFO - Performing login with valid credentials
+2025-02-22 14:29:22,863 - INFO - Login successful
+2025-02-22 14:29:22,865 - INFO - Navigating to PIM section
+2025-02-22 14:29:24,904 - INFO - Clicking Add Employee
+2025-02-22 14:29:26,947 - INFO - Adding employee details
+2025-02-22 14:29:33,121 - INFO - Searching for the added employee
+2025-02-22 14:30:45,799 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:30:51,837 - INFO - Performing login with valid credentials
+2025-02-22 14:30:56,986 - INFO - Login successful
+2025-02-22 14:30:56,988 - INFO - Navigating to PIM section
+2025-02-22 14:30:59,038 - INFO - Clicking Add Employee
+2025-02-22 14:31:01,074 - INFO - Adding employee details
+2025-02-22 14:31:07,263 - INFO - Searching for the added employee
+2025-02-22 14:34:57,859 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:35:03,967 - INFO - Performing login with valid credentials
+2025-02-22 14:35:09,097 - INFO - Login successful
+2025-02-22 14:35:09,098 - INFO - Navigating to PIM section
+2025-02-22 14:35:11,129 - INFO - Clicking Add Employee
+2025-02-22 14:35:13,161 - INFO - Adding employee details
+2025-02-22 14:35:19,349 - INFO - Searching for the added employee
+2025-02-22 14:36:31,489 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:36:37,604 - INFO - Performing login with valid credentials
+2025-02-22 14:36:42,751 - INFO - Login successful
+2025-02-22 14:36:42,751 - INFO - Navigating to PIM section
+2025-02-22 14:36:44,789 - INFO - Clicking Add Employee
+2025-02-22 14:36:46,828 - INFO - Adding employee details
+2025-02-22 14:36:53,003 - INFO - Searching for the added employee
+2025-02-22 14:39:01,303 - INFO - Navigating to OrangeHRM login page
+2025-02-22 14:39:07,517 - INFO - Performing login with valid credentials
+2025-02-22 14:39:12,672 - INFO - Login successful
+2025-02-22 14:39:12,673 - INFO - Navigating to PIM section
+2025-02-22 14:39:14,718 - INFO - Clicking Add Employee
+2025-02-22 14:39:16,777 - INFO - Adding employee details
+2025-02-22 14:39:22,992 - INFO - Searching for the added employee
+2025-02-22 14:39:28,117 - INFO - Test for adding employee completed successfully!
+2025-04-18 15:21:21,278 - INFO - Testing empty username and password...
+2025-04-18 15:21:26,559 - INFO - Testing empty username...
+2025-04-18 15:21:32,084 - INFO - Testing empty password...
+2025-04-18 15:21:37,851 - INFO - Testing logout functionality...
+2025-04-18 15:21:43,259 - INFO - Testing login with special characters in username...
+2025-04-18 15:21:48,827 - INFO - Testing login with maximum input length...
+2025-04-18 15:22:04,636 - INFO - Testing login with SQL injection attempt...
+2025-04-18 15:22:10,272 - INFO - Testing if login button is disabled without input...
+2025-04-18 15:22:15,004 - INFO - Testing valid username with invalid password...
+2025-04-18 15:22:31,885 - INFO - Testing login redirect to dashboard...
+2025-04-18 15:27:30,504 - INFO - Testing empty username and password...
+2025-04-18 15:27:35,437 - INFO - Testing empty username...
+2025-04-18 15:27:39,909 - INFO - Testing empty password...
+2025-04-18 15:27:45,123 - INFO - Testing logout functionality...
+2025-04-18 15:27:49,780 - INFO - Testing login with special characters in username...
+2025-04-18 15:27:55,286 - INFO - Testing login with maximum input length...
+2025-04-18 15:28:10,730 - INFO - Testing login with SQL injection attempt...
+2025-04-18 15:28:15,747 - INFO - Testing if login button is disabled without input...
+2025-04-18 15:28:20,408 - INFO - Testing valid username with invalid password...
+2025-04-18 15:28:36,277 - INFO - Testing login redirect to dashboard...
